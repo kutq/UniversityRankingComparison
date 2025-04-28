@@ -1,0 +1,8 @@
+pandas
+fuzzywuzzy
+scikit-learn
+matplotlib
+matplotlib
+numpy
+dbrepo==1.7.3
+python-dotenv
